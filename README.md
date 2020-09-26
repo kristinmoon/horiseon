@@ -4,4 +4,4 @@ Refactored Horiseon's existing site to make it more accessible, while also clean
 
 ## Screenshot
 
-<img src="./develop/assets/images/screencapture-horiseon.png" alt="Horiseon screen capture" />
+<img src="./Develop/assets/images/screencapture-horiseon.png" alt="Horiseon screen capture" />
