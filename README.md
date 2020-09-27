@@ -4,8 +4,8 @@ Refactored Horiseon's existing site per accessibility standards, while also clea
 
 ## Link to Deployed Application
 
-<a href="https://kristinmoon.github.io/horiseon/" target="_blank">kristinoon.github.io/horieson</a>
+<a href="https://kristinmoon.github.io/horiseon/" target="_blank">kristinoon.github.io/horiseon</a>
 
 ## Screencapture
 
-<img src="./assets/images/screencapture-horiseon.png" alt="Horiseon screen capture" />
+<img src="./assets/images/screencapture-horiseon.png" alt="Horiseon screencapture" />
